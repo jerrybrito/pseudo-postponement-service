@@ -1,0 +1,2 @@
+# Requires: future-duration
+# (Not available on PyPI)
